@@ -29,6 +29,10 @@ SMS: Send code to mobile phone via SMS to authenticate.
 
 Email: Send code to email to authenticate.
 
+Itemized: Structure of the information base that is checked by manager to see whether a user has access to a certain data set on a per item basis
+
+Hierarchical: Structure of the information base that is checked by manager to see whether a user has access to a certain data set based on whether that user is of a level - with or above - the data set.
+
 
 # Impact model justifications
 
